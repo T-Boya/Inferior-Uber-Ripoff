@@ -1,0 +1,1 @@
+web: gunicorn Uber.wsgi --log-file -
